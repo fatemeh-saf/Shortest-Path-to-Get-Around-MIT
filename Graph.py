@@ -1,5 +1,5 @@
-# class that represents weighted graph as a dictionary
-#graph dict key is Node(src) and value is list of Edge obj with that src 
+# class that represents weighted graph as a dictionary.
+#Graph dict key is Node(src) and value is list of Edge obj with that src 
 # Node(src):[Edge(src,dest1,wt,wi),Edge(src,dest2,wt,wi)] 
 
 class Diagraph(object):
